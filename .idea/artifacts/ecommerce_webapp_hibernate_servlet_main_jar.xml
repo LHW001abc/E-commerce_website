@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ecommerce-webapp-hibernate-servlet-main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ecommerce_webapp_hibernate_servlet_main_jar</output-path>
+    <root id="archive" name="ecommerce-webapp-hibernate-servlet-main.jar">
+      <element id="module-output" name="ecommerce-webapp-hibernate-servlet-main" />
+    </root>
+  </artifact>
+</component>
